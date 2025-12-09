@@ -1,0 +1,7 @@
+{
+  "name": "MetaVibe",
+  "description": "An AI experience that adapts art, music, story, and voice to your personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
